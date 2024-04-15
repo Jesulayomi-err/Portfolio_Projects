@@ -97,6 +97,6 @@ From covid_portfolio_project.coviddeath cd
 Join Covid_portfolio_project.covidvaccinations cv
 	On cd.location = cv.location
     and cd.date = cv.date
-order by 1, 2, 3
+order by 1, 2, 3;
 
 
